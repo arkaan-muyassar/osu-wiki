@@ -1160,7 +1160,6 @@ Catatan:
 - `scorebar-marker.png` punya prioritas tinggi.
 - element ini mewakili zona "passing".
 - Elemen ini tidak digunakan dalam [osu!mania](/wiki/Game_mode/osu!mania).
-- Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`.
 - posisi-Y di 16; posisi-X ditempatkan di ujung dari `scorebar-colour.png` yang di-crop.
 
 ---
@@ -1169,16 +1168,16 @@ Catatan:
 
 ![](img/scorebar-kidanger.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Semua | ![No][false] | ![Yes][true] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- `scorebar-marker.png` has higher priority.
-- this element represents the "warning" zone
-- This element is not used in [osu!mania](/wiki/Game_mode/osu!mania)
-- Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
+- `scorebar-marker.png` punya prioritas tinggi.
+- element ini mewakili zona "bahaya".
+- Elemen ini tidak digunakan dalam [osu!mania](/wiki/Game_mode/osu!mania)
+- posisi-Y di 16; posisi-X ditempatkan di ujung dari `scorebar-colour.png` yang di-crop.
 
 ---
 
@@ -1186,16 +1185,16 @@ Notes:
 
 ![](img/scorebar-kidanger2.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Semua | ![No][false] | ![Yes][true] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- `scorebar-marker.png` has higher priority.
-- This element represents the "critical" zone.
-- This element is not used in [osu!mania](/wiki/Game_mode/osu!mania)
-- Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
+- `scorebar-marker.png` punya prioritas tinggi.
+- element ini mewakili zona "kritis".
+- Elemen ini tidak digunakan dalam [osu!mania](/wiki/Game_mode/osu!mania).
+- posisi-Y di 16; posisi-X ditempatkan di ujung dari `scorebar-colour.png` yang di-crop.
 
 ---
 
@@ -1203,35 +1202,36 @@ Notes:
 
 ![](img/scorebar-marker.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Additive | Centre | - |
+| Semua | ![No][false] | ![Yes][true] | Aditif | Tengah | - |
 
 Notes:
 
 - If skinned, this element overrides the `scorebar-ki.png`, `scorebar-kidanger.png`, and `scorebar-kidanger2.png` elements.
-- The marker fades out if the player reaches the critical zone.
-- This element is not used in [osu!mania](/wiki/Game_mode/osu!mania).
-- Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`.
+- Jika diskin, elemen ini menimpa elemen `scorebar-ki.png`, `scorebar-kidanger.png`, dan `scorebar-kidanger2.png`.
+- Marker ini memudar ketika pemain masuk ke zona kritis.
+- Elemen ini tidak digunakan dalam [osu!mania](/wiki/Game_mode/osu!mania).
+- posisi-Y di 16; posisi-X ditempatkan di ujung dari `scorebar-colour.png` yang di-crop.
 
-### Score numbers
+### Nomor nilai
 
 `score-0.png`
 
 ![](img/score-0.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1239,18 +1239,18 @@ Notes:
 
 ![](img/score-1.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1258,18 +1258,18 @@ Notes:
 
 ![](img/score-2.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1277,18 +1277,18 @@ Notes:
 
 ![](img/score-3.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1296,18 +1296,18 @@ Notes:
 
 ![](img/score-4.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1315,18 +1315,18 @@ Notes:
 
 ![](img/score-5.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1334,18 +1334,18 @@ Notes:
 
 ![](img/score-6.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1353,18 +1353,18 @@ Notes:
 
 ![](img/score-7.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1372,18 +1372,18 @@ Notes:
 
 ![](img/score-8.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1391,18 +1391,18 @@ Notes:
 
 ![](img/score-9.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | - |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- Blend mode varies:
-  - If used for combo counter:
-    - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), additive for the expanding after images.
-    - Additionally in osu!catch, the after images are tinted using the combo colour of the fruit.
-    - In osu!mania, multiplicative.
+- Secara default, ini juga digunaakan di nomor kombo.
+- Variasi mode blend:
+  - Jika di gunakan di kounter kombo:
+    - Di [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), aditif untuk memperluas setelah gambar.
+    - Selain itu di osu!catch, gambar setelahnya diwarnai menggunakan warna kombo buah
+    - Di osu!mania, dikalikan.
 
 ---
 
@@ -1410,15 +1410,15 @@ Notes:
 
 ![](img/score-comma.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 5x14 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 5x14 |
 
-Notes:
+Catatn:
 
-- By default, this is also used for the combo numbers.
-- This element is for the accuracy.
-- The usage is dependent on your selected language.
+- Secara default, Ini juga digunakan di nomor kombo.
+- Elemen ini untuk akurasi.
+- Penggunaannya tergantung pada bahasa yang Anda pilih.
 
 ---
 
@@ -1426,15 +1426,15 @@ Notes:
 
 ![](img/score-dot.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 5x14 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 5x14 |
 
-Notes:
+Catatan:
 
-- By default, this is also used for the combo numbers.
-- This element is for the accuracy.
-- The usage is dependent on your selected language.
+- Secara default, Ini juga digunakan di nomor kombo.
+- Elemen ini untuk akurasi.
+- Penggunaannya tergantung pada bahasa yang Anda pilih.
 
 ---
 
@@ -1442,13 +1442,13 @@ Notes:
 
 ![](img/score-percent.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 12x14 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 12x14 |
 
-Notes:
+Catatan:
 
-- This element is for the accuracy.
+- Elemen ini untuk akurasi.
 
 ---
 
