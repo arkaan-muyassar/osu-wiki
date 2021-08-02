@@ -1934,254 +1934,254 @@ Notes:
 
 `scoreentry-2.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 11x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards and input overlay.
-  - For input overlay, the initial button labels are not skinnable.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
-  - Rank: Top Right
-  - Input overlay: Top
+- Elemen ini digunakan untuk papan peringkat dalam permainan dan cadangan masukan.
+   - Untuk overlay input, label tombol awal tidak dapat di-skin.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+   - Overlay input: gunakan nilai `InputOverlayText` dari [skin.ini](/wiki/Skinning/skin.ini) atau hitam, jika tidak ditentukan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
+   - Peringkat: Kanan Atas
+   - Hamparan masukan: Atas
 
 ---
 
 `scoreentry-3.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 11x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards and input overlay.
-  - For input overlay, the initial button labels are not skinnable.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
-  - Rank: Top Right
-  - Input overlay: Top
+- Elemen ini digunakan untuk papan peringkat dalam permainan dan cadangan masukan.
+   - Untuk overlay input, label tombol awal tidak dapat di-skin.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+   - Overlay input: gunakan nilai `InputOverlayText` dari [skin.ini](/wiki/Skinning/skin.ini) atau hitam, jika tidak ditentukan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
+   - Peringkat: Kanan Atas
+   - Hamparan masukan: Atas
 
 ---
 
 `scoreentry-4.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 11x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards and input overlay.
-  - For input overlay, the initial button labels are not skinnable.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
-  - Rank: Top Right
-  - Input overlay: Top
+- Elemen ini digunakan untuk papan peringkat dalam permainan dan cadangan masukan.
+   - Untuk overlay input, label tombol awal tidak dapat di-skin.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+   - Overlay input: gunakan nilai `InputOverlayText` dari [skin.ini](/wiki/Skinning/skin.ini) atau hitam, jika tidak ditentukan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
+   - Peringkat: Kanan Atas
+   - Hamparan masukan: Atas
 
 ---
 
 `scoreentry-5.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 11x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards and input overlay.
-  - For input overlay, the initial button labels are not skinnable.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
-  - Rank: Top Right
-  - Input overlay: Top
+- Elemen ini digunakan untuk papan peringkat dalam permainan dan cadangan masukan.
+   - Untuk overlay input, label tombol awal tidak dapat di-skin.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+   - Overlay input: gunakan nilai `InputOverlayText` dari [skin.ini](/wiki/Skinning/skin.ini) atau hitam, jika tidak ditentukan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
+   - Peringkat: Kanan Atas
+   - Hamparan masukan: Atas
 
 ---
 
 `scoreentry-6.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 11x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards and input overlay.
-  - For input overlay, the initial button labels are not skinnable.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
-  - Rank: Top Right
-  - Input overlay: Top
+- Elemen ini digunakan untuk papan peringkat dalam permainan dan cadangan masukan.
+   - Untuk overlay input, label tombol awal tidak dapat di-skin.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+   - Overlay input: gunakan nilai `InputOverlayText` dari [skin.ini](/wiki/Skinning/skin.ini) atau hitam, jika tidak ditentukan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
+   - Peringkat: Kanan Atas
+   - Hamparan masukan: Atas
 
 ---
 
 `scoreentry-7.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 11x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards and input overlay.
-  - For input overlay, the initial button labels are not skinnable.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
-  - Rank: Top Right
-  - Input overlay: Top
+- Elemen ini digunakan untuk papan peringkat dalam permainan dan cadangan masukan.
+   - Untuk overlay input, label tombol awal tidak dapat di-skin.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+   - Overlay input: gunakan nilai `InputOverlayText` dari [skin.ini](/wiki/Skinning/skin.ini) atau hitam, jika tidak ditentukan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
+   - Peringkat: Kanan Atas
+   - Hamparan masukan: Atas
 
 ---
 
 `scoreentry-8.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 11x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards and input overlay.
-  - For input overlay, the initial button labels are not skinnable.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
-  - Rank: Top Right
-  - Input overlay: Top
+- Elemen ini digunakan untuk papan peringkat dalam permainan dan cadangan masukan.
+   - Untuk overlay input, label tombol awal tidak dapat di-skin.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+   - Overlay input: gunakan nilai `InputOverlayText` dari [skin.ini](/wiki/Skinning/skin.ini) atau hitam, jika tidak ditentukan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
+   - Peringkat: Kanan Atas
+   - Hamparan masukan: Atas
 
 ---
 
 `scoreentry-9.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 11x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards and input overlay.
-  - For input overlay, the initial button labels are not skinnable.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
-  - Rank: Top Right
-  - Input overlay: Top
+- Elemen ini digunakan untuk papan peringkat dalam permainan dan cadangan masukan.
+   - Untuk overlay input, label tombol awal tidak dapat di-skin.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+   - Overlay input: gunakan nilai `InputOverlayText` dari [skin.ini](/wiki/Skinning/skin.ini) atau hitam, jika tidak ditentukan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
+   - Peringkat: Kanan Atas
+   - Hamparan masukan: Atas
 
 ---
 
 `scoreentry-comma.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 5x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 5x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards.
-- This element is used as the decimal separator.
-  - Usage depends on your selected language.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
+- Elemen ini digunakan untuk papan peringkat dalam game.
+- Elemen ini digunakan sebagai pemisah desimal.
+   - Penggunaan tergantung pada bahasa yang Anda pilih.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
 
 ---
 
 `scoreentry-dot.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | Top Left | 5x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | Atas Kiri | 5x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards.
-- This element is used as the decimal separator.
-  - Usage depends on your selected language.
-- Tinted white.
+- Elemen ini digunakan untuk papan peringkat dalam game.
+- Elemen ini digunakan sebagai pemisah desimal.
+   - Penggunaan tergantung pada bahasa yang Anda pilih.
+- Berwarna putih.
 
 ---
 
 `scoreentry-percent.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | Top Left | 12x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | Atas Kiri | 12x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards.
-- This element is used in [Multi](/wiki/Multi) games when the win condition is set to Accuracy.
-- Tinted white.
+- Elemen ini digunakan untuk papan peringkat dalam game.
+- Elemen ini digunakan di game [Multi](/wiki/Multi) saat kondisi menang diatur ke Akurasi.
+- Berwarna putih.
 
 ---
 
 `scoreentry-x.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | Top Right | 10x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | Kanan Atas | 10x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards.
-- This element is used as the multiplier symbol.
-- Tinted cyan.
+- Elemen ini digunakan untuk papan peringkat dalam game.
+- Elemen ini digunakan sebagai simbol pengali.
+- Warna cyan.
 
-## Song selection
+## Pemilihan Lagu
 
 `menu-back.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![Yes][true] | ![No][false] | Normal | Bottom Left | 200x214 |
+| Semua | ![Yes][true] | ![No][false] | Normal | Kiri Bawah | 200x214 |
 
-Notes:
+Catatan:
 
-- Animation name: `menu-back-{n}.png`.
-- The native back button is not skinnable.
-  - If this element is skinned, it will override the new one everywhere, except for the [options](/wiki/Options).
+- Nama animasi: `menu-back-{n}.png`.
+- Tombol kembali asli tidak dapat dikuliti.
+   - Jika elemen ini dikuliti, elemen ini akan menimpa yang baru di mana-mana, kecuali untuk [options](/wiki/Options).
 
 ---
 
@@ -2189,36 +2189,36 @@ Notes:
 
 ![](img/menu-button-background.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | Bottom Left | min: 690x85 |
+| Semua | ![No][false] | ![Yes][true] | Perkalian | Bawah Kiri | min: 690x85 |
 
-Notes:
+Catatan:
 
-- Skin versions 2.2+ can support thumbnails (must be enabled in the [options](/wiki/Options)) for song selection
-  - Thumbnails get positioned 9px away from the left image border
-  - Thumbnail size is 115x85
-- This element is used in various places:
-  - scoreboards in song selection
-  - button for the beatmap difficulty in song selection
-  - scoreboards on the left while playing
-  - button that shows the selected beatmap while waiting in a room in multiplayer
-- Tinting varies by button state.
-
+- Skin versi 2.2+ dapat mendukung thumbnail (harus diaktifkan di [options](/wiki/Options)) untuk pemilihan lagu
+   - Thumbnail diposisikan 9px dari batas gambar kiri
+   - Ukuran thumbnail adalah 115x85
+- Elemen ini digunakan di berbagai tempat:
+   - papan skor dalam pemilihan lagu
+   - tombol untuk kesulitan beatmap dalam pemilihan lagu
+   - papan skor di sebelah kiri saat bermain
+   - tombol yang menampilkan peta ketukan yang dipilih sambil menunggu di ruangan dalam multipemain
+- Pewarnaan bervariasi menurut status tombol.
+- 
 ---
 
 `selection-mode.png`
 
 ![](img/selection-mode.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 92x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 92x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | 92x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bawah Kiri | 92x90 |
 
-Notes:
+Catatan:
 
-- In v1.0, positioning is 87px away from the bottom.
+- Di v1.0, pemosisian berjarak 87px dari bawah.
 
 ---
 
@@ -2226,15 +2226,15 @@ Notes:
 
 ![](img/selection-mode-over.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 92x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 92x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | 92x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bawah Kiri | 92x90 |
 
-Notes:
+Catatan:
 
-- Hover over `selection-mode.png` to see.
-- In v1.0, positioning is 87px away from the bottom.
+- Arahkan kursor ke `selection-mode.png` untuk melihat.
+- Di v1.0, pemosisian berjarak 87px dari bawah.
 
 ---
 
@@ -2242,7 +2242,7 @@ Notes:
 
 ![](img/selection-mods.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
 | 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
