@@ -1414,7 +1414,7 @@ Catatan:
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 5x14 |
 
-Catatn:
+Catatan:
 
 - Secara default, Ini juga digunakan di nomor kombo.
 - Elemen ini untuk akurasi.
@@ -1456,33 +1456,34 @@ Catatan:
 
 ![](img/score-x.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | 10x14 |
+| Semua | ![No][false] | ![Yes][true] | (Bervariasi) | (Bervariasi) | 10x14 |
 
-Notes:
+Catatan:
 
-- This element is for the combo, only used in [osu!](/wiki/Game_mode/osu!).
-- Blend mode varies:
-  - If used for combo counter:
-    - Additive for the expanding after images.
+- Elemen ini adalah untuk kombo, hanya digunakan di [osu!](/wiki/Game_mode/osu!).
+- Variasi mode blend:
+  - Jika digunakan di kounter kombo:
+    - Dikalikan untuk memperluas setelah gambar.
 
-## Ranking grades
+
+## Nilai Peringkat
 
 `ranking-XH.png`
 
 ![](img/ranking-XH.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | - |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- Positioning varies:
-  - 192px away from right screenborder
-  - v1.0: at 272px height
-  - v2.0+: at 320px height
+- Variasi posisi:
+  - 192px jauh dari screenborder kanan
+  - v1.0: di kelebaran 272px
+  - v2.0+: di kelebaran 320px
 
 ---
 
@@ -1490,16 +1491,16 @@ Notes:
 
 ![](img/ranking-XH-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 34x40 |
 
-Notes:
+Catatan:
 
-- Origin varies:
-  - Break: Centre
-  - Song Select panel: Left
-  - User scores: Centre
+- Variasi pusat:
+  - Istirahat: Tengah
+  - Panel pemilihan lagu: Left
+  - Nilai pengguna: Centre
 
 ---
 
@@ -1507,16 +1508,16 @@ Notes:
 
 ![](img/ranking-X.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | - |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- Positioning varies:
-  - 192px away from right screenborder
-  - v1.0: at 272px height
-  - v2.0+: at 320px height
+- Variasi posisi:
+  - 192px jauh dari screenborder kanan
+  - v1.0: di kelebaran 272px
+  - v2.0+: di kelebaran 320px
 
 ---
 
@@ -1524,16 +1525,16 @@ Notes:
 
 ![](img/ranking-X-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 34x40 |
 
-Notes:
+Catatan:
 
-- Origin varies:
-  - Break: Centre
-  - Song Select panel: Left
-  - User scores: Centre
+- Variasi pusat:
+  - Istirahat: Tengah
+  - Panel pemilihan lagu: Left
+  - Nilai pengguna: Centre
 
 ---
 
@@ -1541,16 +1542,16 @@ Notes:
 
 ![](img/ranking-SH.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | - |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- Positioning varies:
-  - 192px away from right screen border
-  - v1.0: at 272px height
-  - v2.0+: at 320px height
+- Variasi posisi:
+  - 192px jauh dari screenborder kanan
+  - v1.0: di kelebaran 272px
+  - v2.0+: di kelebaran 320px
 
 ---
 
@@ -1558,16 +1559,16 @@ Notes:
 
 ![](img/ranking-SH-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 34x40 |
 
-Notes:
+Catatan:
 
-- Origin varies:
-  - Break: Centre
-  - Song Select panel: Left
-  - User scores: Centre
+- Variasi pusat:
+  - Istirahat: Tengah
+  - Panel pemilihan lagu: Left
+  - Nilai pengguna: Centre
 
 ---
 
@@ -1575,16 +1576,16 @@ Notes:
 
 ![](img/ranking-S.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | - |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- Positioning varies:
-  - 192px away from right screen border
-  - v1.0: at 272px height
-  - v2.0+: at 320px height
+- Variasi posisi:
+  - 192px jauh dari screenborder kanan
+  - v1.0: di kelebaran 272px
+  - v2.0+: di kelebaran 320px
 
 ---
 
@@ -1592,16 +1593,16 @@ Notes:
 
 ![](img/ranking-S-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 34x40 |
 
-Notes:
+Catatan:
 
-- Origin varies:
-  - Break: Centre
-  - Song Select panel: Left
-  - User scores: Centre
+- Variasi pusat:
+  - Istirahat: Tengah
+  - Panel pemilihan lagu: Left
+  - Nilai pengguna: Centre
 
 ---
 
@@ -1609,16 +1610,16 @@ Notes:
 
 ![](img/ranking-A.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | - |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- Positioning varies:
-  - 192px away from right screen border
-  - v1.0: at 272px height
-  - v2.0+: at 320px height
+- Variasi posisi:
+  - 192px jauh dari screenborder kanan
+  - v1.0: di kelebaran 272px
+  - v2.0+: di kelebaran 320px
 
 ---
 
@@ -1626,16 +1627,16 @@ Notes:
 
 ![](img/ranking-A-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 34x40 |
 
-Notes:
+Catatan:
 
-- Origin varies:
-  - Break: Centre
-  - Song Select panel: Left
-  - User scores: Centre
+- Variasi pusat:
+  - Istirahat: Tengah
+  - Panel pemilihan lagu: Left
+  - Nilai pengguna: Centre
 
 ---
 
@@ -1643,16 +1644,16 @@ Notes:
 
 ![](img/ranking-B.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | - |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- Positioning varies:
-  - 192px away from right screen border
-  - v1.0: at 272px height
-  - v2.0+: at 320px height
+- Variasi posisi:
+  - 192px jauh dari screenborder kanan
+  - v1.0: di kelebaran 272px
+  - v2.0+: di kelebaran 320px
 
 ---
 
@@ -1660,16 +1661,16 @@ Notes:
 
 ![](img/ranking-B-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 34x40 |
 
-Notes:
+Catatan:
 
-- Origin varies:
-  - Break: Centre
-  - Song Select panel: Left
-  - User scores: Centre
+- Variasi pusat:
+  - Istirahat: Tengah
+  - Panel pemilihan lagu: Left
+  - Nilai pengguna: Centre
 
 ---
 
@@ -1677,16 +1678,16 @@ Notes:
 
 ![](img/ranking-C.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | - |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- Positioning varies:
-  - 192px away from right screen border
-  - v1.0: at 272px height
-  - v2.0+: at 320px height
+- Variasi posisi:
+  - 192px jauh dari screenborder kanan
+  - v1.0: di kelebaran 272px
+  - v2.0+: di kelebaran 320px
 
 ---
 
@@ -1694,16 +1695,16 @@ Notes:
 
 ![](img/ranking-C-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 34x40 |
 
-Notes:
+Catatan:
 
-- Origin varies:
-  - Break: Centre
-  - Song Select panel: Left
-  - User scores: Centre
+- Variasi pusat:
+  - Istirahat: Tengah
+  - Panel pemilihan lagu: Left
+  - Nilai pengguna: Centre
 
 ---
 
@@ -1711,16 +1712,16 @@ Notes:
 
 ![](img/ranking-D.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | - |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | - |
 
-Notes:
+Catatan:
 
-- Positioning varies:
-  - 192px away from right screen border
-  - v1.0: at 272px height
-  - v2.0+: at 320px height
+- Variasi posisi:
+  - 192px jauh dari screenborder kanan
+  - v1.0: di kelebaran 272px
+  - v2.0+: di kelebaran 320px
 
 ---
 
@@ -1728,16 +1729,16 @@ Notes:
 
 ![](img/ranking-D-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Semua | ![No][false] | ![Yes][true] | Normal | (Bervariasi) | 34x40 |
 
-Notes:
+Catatan:
 
-- Origin varies:
-  - Break: Centre
-  - Song Select panel: Left
-  - User scores: Centre
+- Variasi pusat:
+  - Istirahat: Tengah
+  - Panel pemilihan lagu: Left
+  - Nilai pengguna: Centre
 
 ## Ranking screen
 
@@ -1745,15 +1746,15 @@ Notes:
 
 ![](img/ranking-accuracy.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] (see notes) | ![No][false] | Normal | Top Left | - |
+| Semua | ![No][false] (lihat catatan) | ![No][false] | Normal | Atas Kiri | - |
 
-Notes:
+Catatan:
 
-- Can be animated, but only the zeroth frame will be used.
-  - Animation name: `ranking-accuracy-{n}.png`
-- Positioning varies:
+- Bisa dianimasikan, tapi hanya frame ke-0 yang digunakan.
+  - Nama animasi: `ranking-accuracy-{n}.png`
+- Variasi posisi:
   - v1.0: (291,500)
   - v2.0+: (291,480)
 
