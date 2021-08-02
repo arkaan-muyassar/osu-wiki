@@ -1465,7 +1465,7 @@ Catatan:
 - Elemen ini adalah untuk kombo, hanya digunakan di [osu!](/wiki/Game_mode/osu!).
 - Variasi mode blend:
   - Jika digunakan di kounter kombo:
-    - Dikalikan untuk memperluas setelah gambar.
+    - Aditif untuk memperluas setelah gambar.
 
 
 ## Nilai Peringkat
@@ -1764,19 +1764,19 @@ Catatan:
 
 ![](img/ranking-graph.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | min: 308x156 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Top Left | min: 308x148 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | min: 308x156 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Atas Kiri | min: 308x148 |
 
-Notes:
+Catatan:
 
-- Positioning varies:
+- Variasi posisi:
   - v1.0: (256,576)
   - v2.0+: (256,608)
-- The box itself is 301x141.
-- The first 7 pixels at the top and at the left should be transparent.
-  - In v1 it's shifted down by 8px.
+- Kotaknya sendiri berukuran 301x141.
+- 7 piksel pertama di atas dan di kiri harus transparan.
+  - Di v1 itu digeser ke bawah sebesar 8px.
 
 ---
 
@@ -1784,15 +1784,15 @@ Notes:
 
 ![](img/ranking-maxcombo.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] (see notes) | ![No][false] | Normal | Top Left | - |
+| Semua | ![No][false] (see notes) | ![No][false] | Normal | Atas Kiri | - |
 
-Notes:
+Catatan:
 
-- Can be animated, but only the zeroth frame will be used.
-  - Animation name: `ranking-maxcombo-{n}.png`
-- Positioning varies:
+- Bisa dianimasikan, tapi hanya frame ke-0 yang digunakan.
+  - Nama animasi: `ranking-maxcombo-{n}.png`
+- Variasi posisi:
   - v1.0: (8,500)
   - v2.0+: (8,480)
 
@@ -1802,14 +1802,14 @@ Notes:
 
 ![](img/ranking-panel.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | max height: 694px |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Top Left | max height: 666px |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | max height: 694px |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Atas Kiri | max height: 666px |
 
-Notes:
+Catatan:
 
-- Positioning varies:
+- Variasi posisi:
   - v1.0: (0,74)
   - v2.0+: (0,102)
 
@@ -1819,15 +1819,15 @@ Notes:
 
 ![](img/ranking-perfect.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] (see notes) | ![No][false] | Normal | Centre | - |
+| Semua | ![No][false] (see notes) | ![No][false] | Normal | Tengah | - |
 
 Notes:
 
-- Can be animated, but only the zeroth frame will be used.
-  - Animation name: `ranking-perfect-{n}.png`
-- Positioning varies:
+- Bisa dianimasikan, tapi hanya frame ke-0 yang digunakan.
+  - Nama animasi: `ranking-perfect-{n}.png`
+- Variasi posisi:
   - v1.0: (320,688)
   - v2.0+: (416,688)
 
@@ -1837,40 +1837,40 @@ Notes:
 
 ![](img/ranking-title.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Top Right | - |
+| Semua | ![No][false] | ![No][false] | Normal | Atas Kanan | - |
 
-Notes:
+Catatan:
 
-- x-position 32px away from the right side
+- 32px posisi-x jauh dari sisi kanan
 
 ---
 
 `ranking-replay.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Right | - |
+| 1.0 | ![No][false] | ![No][false] | Normal | Kanan | - |
 
-Notes:
+Catatan:
 
-- Position varies:
-  - at 672px height.
-  - at 576px height, if retry is not available.
+- Variasi posisi:
+  - di lebar 672px.
+  - di lebar 576px, Jike retry tidak tersedia.
 
 ---
 
 `ranking-retry.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Right | - |
+| Semua | ![No][false] | ![No][false] | Normal | Kanan | - |
 
-Notes:
+Catatan:
 
-- Positioned at 576px height.
-- If skinned, this element overrides `pause-retry.png`.
+- Diposisikan di kelebaran 576px.
+- Jika diskin, elemen ini mengganti `pause-retry.png`.
 
 ---
 
@@ -1878,35 +1878,35 @@ Notes:
 
 ![](img/ranking-winner.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Top Left | 200x214 |
+| Semua | ![No][false] | ![No][false] | Normal | Atas Kiri | 200x214 |
 
-Notes:
+Catatan:
 
-- This element is used in [multi](/wiki/multi) only.
+- Elemen ini hanya digunakan di [multi](/wiki/multi).
 
-## Score entry
+## Entri skor
 
 `scoreentry-0.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | (varies) | 11x14 |
+| Semua | ![No][false] | ![Yes][true] | Dikalikan | (bervariasi) | 11x14 |
 
-Notes:
+Catatan:
 
-- This element is used for the in-game leaderboards and input overlay.
-  - For input overlay, the initial button labels are not skinnable.
-- Tinting depends on use:
-  - Score: white
-  - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
-- Origin varies on use:
-  - Score: Top Left
-  - Combo: Top Right
-  - Rank: Top Right
-  - Input overlay: Top
+- Elemen ini digunakan untuk papan peringkat dalam permainan dan cadangan masukan.
+   - Untuk overlay input, label tombol awal tidak dapat di-skin.
+- Pewarnaan tergantung penggunaan:
+   - Skor: putih
+   - Kombo: cyan
+   - Overlay input: gunakan nilai `InputOverlayText` dari [skin.ini](/wiki/Skinning/skin.ini) atau hitam, jika tidak ditentukan
+- Asal bervariasi pada penggunaan:
+   - Skor: Kiri Atas
+   - Kombo: Kanan Atas
+   - Peringkat: Kanan Atas
+   - Hamparan masukan: Atas
 
 ---
 
