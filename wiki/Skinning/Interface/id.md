@@ -2501,15 +2501,15 @@ Catatan:
 
 ![](img/mode-osu-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Additive | Centre | 32x32 |
+| Semua | ![No][false] | ![No][false] | Aditif | Tengah | 32x32 |
 
-Notes:
+Catatan:
 
-- This element is on top of the `selection-mode.png` element.
-- Select [osu!](/wiki/Game_mode/osu!) for this to see.
-- If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
+- Elemen ini ada di atas dari elemen `selection-mode.png`.
+- Pilih [osu!](/wiki/Game_mode/osu!) untuk melihatnya.
+- Jika elemen `menu-snow.png` tidak di skin, elemen ini akan menggantikannya.
 
 ---
 
@@ -2517,15 +2517,15 @@ Notes:
 
 ![](img/mode-taiko-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Additive | Centre | 32x32 |
+| Semua | ![No][false] | ![No][false] | Aditif | Tengah | 32x32 |
 
-Notes:
+Catatan:
 
-- This element is on top of the `selection-mode.png` element.
-- Select [osu!taiko](/wiki/Game_mode/osu!taiko) for this to see.
-- If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
+- Elemen ini ada di atas dari elemen `selection-mode.png`.
+- Pilih [osu!taiko](/wiki/Game_mode/osu!taiko) untuk melihatnya.
+- Jika elemen `menu-snow.png` tidak di skin, elemen ini akan menggantikannya.
 
 ---
 
@@ -2533,15 +2533,15 @@ Notes:
 
 ![](img/mode-fruits-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Additive | Centre | 32x32 |
+| Semua | ![No][false] | ![No][false] | Aditif | Tengah | 32x32 |
 
-Notes:
+Catatan:
 
-- This element is on top of the `selection-mode.png` element.
-- Select [osu!catch](/wiki/Game_mode/osu!catch) for this to see.
-- If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
+- Elemen ini ada di atas dari elemen `selection-mode.png`.
+- Pilih [osu!catch](/wiki/Game_mode/osu!catch) untuk melihatnya.
+- Jika elemen `menu-snow.png` tidak di skin, elemen ini akan menggantikannya.
 
 ---
 
@@ -2549,15 +2549,15 @@ Notes:
 
 ![](img/mode-mania-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Additive | Centre | 32x32 |
+| Semua | ![No][false] | ![No][false] | Aditif | Tengah | 32x32 |
 
-Notes:
+Catatan:
 
-- This element is on top of the `selection-mode.png` element.
-- Select [osu!mania](/wiki/Game_mode/osu!mania) for this to see.
-- If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
+- Elemen ini ada di atas dari elemen `selection-mode.png`.
+- Pilih [osu!mania](/wiki/Game_mode/osu!mania) untuk melihatnya.
+- Jika elemen `menu-snow.png` tidak di skin, elemen ini akan menggantikannya.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
