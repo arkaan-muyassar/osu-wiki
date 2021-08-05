@@ -2448,7 +2448,7 @@ Catatan:
 Catatan:
 
 - Elemen ini digunakan di dalam menu tarik-turun pemilihan mode permainan.
-- Click on `selection-mode.png` to see.
+- Klik `selection-mode.png` untuk melihatnya.
 
 ---
 
@@ -2463,7 +2463,7 @@ Catatan:
 Catatan:
 
 - Elemen ini digunakan di dalam menu tarik-turun pemilihan mode permainan.
-- Click on `selection-mode.png` to see.
+- Klik `selection-mode.png` untuk melihatnya.
 
 ---
 
@@ -2478,7 +2478,7 @@ Catatan:
 Catatan:
 
 - Elemen ini digunakan di dalam menu tarik-turun pemilihan mode permainan.
-- Click on `selection-mode.png` to see.
+- Klik `selection-mode.png` untuk melihatnya.
 
 ---
 
@@ -2493,7 +2493,7 @@ Catatan:
 Catatan:
 
 - Elemen ini digunakan di dalam menu tarik-turun pemilihan mode permainan.
-- Click on `selection-mode.png` to see.
+- Klik `selection-mode.png` untuk melihatnya.
 
 ---
 
