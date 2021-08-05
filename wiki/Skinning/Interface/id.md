@@ -2244,12 +2244,12 @@ Catatan:
 
 | Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bawah Kiri | 77x90 |
 
-Notes:
+Catatan:
 
-- In v1.0, positioning is 87px away from the bottom.
+- Di v1.0, pemosisian berjarak 87px dari bawah.
 
 ---
 
@@ -2257,15 +2257,15 @@ Notes:
 
 ![](img/selection-mods-over.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bawah Kiri | 77x90 |
 
-Notes:
+Catatan:
 
-- Hover over `selection-mods.png` to see.
-- In v1.0, positioning is 87px away from the bottom.
+- Arahkan kursor ke `selection-mods.png` untuk melihat.
+- Di v1.0, pemosisian berjarak 87px dari bawah.
 
 ---
 
@@ -2273,14 +2273,14 @@ Notes:
 
 ![](img/selection-random.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bawah Kiri | 77x90 |
 
-Notes:
+Catatan:
 
-- In v1.0, positioning is 87px away from the bottom.
+- Di v1.0, pemosisian berjarak 87px dari bawah.
 
 ---
 
@@ -2288,15 +2288,15 @@ Notes:
 
 ![](img/selection-random-over.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bawah Kiri | 77x90 |
 
-Notes:
+Catatan:
 
-- Hover over `selection-random.png` to see.
-- In v1.0, positioning is 87px away from the bottom.
+- Arahkan kursor ke `selection-random.png` untuk melihat.
+- Di v1.0, pemosisian berjarak 87px dari bawah.
 
 ---
 
@@ -2304,14 +2304,14 @@ Notes:
 
 ![](img/selection-options.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bawah Kiri | 77x90 |
 
-Notes:
+Catatan:
 
-- In v1.0, positioning is 87px away from the bottom.
+- Di v1.0, pemosisian berjarak 87px dari bawah.
 
 ---
 
@@ -2319,15 +2319,15 @@ Notes:
 
 ![](img/selection-options-over.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Atas Kiri | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bawah Kiri | 77x90 |
 
-Notes:
+Catatan:
 
-- Hover over `selection-options.png` to see.
-- In v1.0, positioning is 87px away from the bottom.
+- Arahkan kursor ke `selection-options.png` untuk melihat.
+- Di v1.0, pemosisian berjarak 87px dari bawah.
 
 ---
 
@@ -2335,30 +2335,30 @@ Notes:
 
 ![](img/selection-tab.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Multiplicative | Top Left | 142x24 |
+| Semua | ![No][false] | ![Yes][true] | Perkalian | Bawah Kiri | 142x24 |
 
-Notes:
+Catatan:
 
-- Depending on the client's window size, 4 to 5 tabs will be displayed.
-
+- Tergantung pada ukuran jendela klien, 4 hingga 5 tab akan ditampilkan.
+- 
 ---
 
 `star.png`
 
 ![](img/star.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Multiplicative | Centre | 50x50 |
+| Semua | ![No][false] | ![No][false] | Perkalian | Tengah | 50x50 |
 
-Notes:
+Catatan:
 
-- This element is used for difficulty star ratings (seen in song selection).
-  - v2.2+ will scale down the last star, if necessary
-  - v2.1- will crop the last star, if necessary
-- Tinting depends on the state of `menu-button-background.png`
+- Elemen ini digunakan untuk peringkat bintang kesulitan (terlihat dalam pemilihan lagu).
+   - v2.2+ akan mengurangi bintang terakhir, jika perlu
+   - v2.1- akan memotong bintang terakhir, jika perlu
+- Pewarnaan tergantung pada status `menu-button-background.png`
 
 ---
 
@@ -2366,28 +2366,28 @@ Notes:
 
 ![](img/star2.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![Yes][true] | Additive | Centre | 24x24 |
+| Semua | ![No][false] | ![Yes][true] | Aditif | Tengah | 24x24 |
 
-Notes:
+Catatan:
 
-- This element is used for song selection (the stars that fly from right to left), cursor, kiai time, combobursts.
-
-### Mode select
+- Elemen ini digunakan untuk pemilihan lagu (bintang yang terbang dari kanan ke kiri), kursor, waktu kiai, kombo burst.
+- 
+### Pemilihan mode
 
 `mode-osu.png`
 
 ![](img/mode-osu.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Additive | Centre | 256x256 |
+| Semua | ![No][false] | ![No][false] | Aditif | Tengah | 256x256 |
 
-Notes:
+Catatan:
 
-- This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!](/wiki/Game_mode/osu!) for this to see.
+- Elemen ini berkedip di tengah layar pemilihan lagu sehubungan dengan BPM lagu.
+- Pilih [osu!](/wiki/Game_mode/osu!) untuk memunculkan ini.
 
 ---
 
@@ -2395,14 +2395,14 @@ Notes:
 
 ![](img/mode-taiko.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Additive | Centre | 256x256 |
+| Semua | ![No][false] | ![No][false] | Aditif | Tengah | 256x256 |
 
-Notes:
+Catatan:
 
-- This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!taiko](/wiki/Game_mode/osu!taiko) for this to see.
+- Elemen ini berkedip di tengah layar pemilihan lagu sehubungan dengan BPM lagu.
+- Pilih [osu!taiko](/wiki/Game_mode/osu!taiko) untuk memunculkan ini.
 
 ---
 
@@ -2410,14 +2410,14 @@ Notes:
 
 ![](img/mode-fruits.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Additive | Centre | 256x256 |
+| Semua | ![No][false] | ![No][false] | Aditif | Tengah | 256x256 |
 
-Notes:
+Catatan:
 
-- This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!catch](/wiki/Game_mode/osu!catch) for this to see.
+- Elemen ini berkedip di tengah layar pemilihan lagu sehubungan dengan BPM lagu.
+- Pilih [osu!catch](/wiki/Game_mode/osu!catch) untuk memunculkan ini.
 
 ---
 
@@ -2425,14 +2425,15 @@ Notes:
 
 ![](img/mode-mania.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Additive | Centre | 256x256 |
+| Semua | ![No][false] | ![No][false] | Aditif | Tengah | 256x256 |
 
-Notes:
 
-- This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!mania](/wiki/Game_mode/osu!mania) for this to see.
+Catatan:
+
+- Elemen ini berkedip di tengah layar pemilihan lagu sehubungan dengan BPM lagu.
+- Pilih [osu!mania](/wiki/Game_mode/osu!mania) untuk memunculkan ini.
 
 ---
 
@@ -2440,13 +2441,13 @@ Notes:
 
 ![](img/mode-osu-med.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | 128x128 |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | 128x128 |
 
-Notes:
+Catatan:
 
-- This element is used inside the game mode selection dropdown menu.
+- Elemen ini digunakan di dalam menu tarik-turun pemilihan mode permainan.
 - Click on `selection-mode.png` to see.
 
 ---
@@ -2455,13 +2456,13 @@ Notes:
 
 ![](img/mode-taiko-med.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | 128x128 |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | 128x128 |
 
-Notes:
+Catatan:
 
-- This element is used inside the game mode selection dropdown menu.
+- Elemen ini digunakan di dalam menu tarik-turun pemilihan mode permainan.
 - Click on `selection-mode.png` to see.
 
 ---
@@ -2470,13 +2471,13 @@ Notes:
 
 ![](img/mode-fruits-med.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | 128x128 |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | 128x128 |
 
-Notes:
+Catatan:
 
-- This element is used inside the game mode selection dropdown menu.
+- Elemen ini digunakan di dalam menu tarik-turun pemilihan mode permainan.
 - Click on `selection-mode.png` to see.
 
 ---
@@ -2485,13 +2486,13 @@ Notes:
 
 ![](img/mode-mania-med.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versi | Dapat Dianimasikan | Beatmap Skinnable | Mode Blend | Asal | Ukuran SD Direkomendasikan |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![No][false] | ![No][false] | Normal | Centre | 128x128 |
+| Semua | ![No][false] | ![No][false] | Normal | Tengah | 128x128 |
 
-Notes:
+Catatan:
 
-- This element is used inside the game mode selection dropdown menu.
+- Elemen ini digunakan di dalam menu tarik-turun pemilihan mode permainan.
 - Click on `selection-mode.png` to see.
 
 ---
